@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 30px;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  line-height: 1;
+  border-top: 4px solid #FA023C;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size: 1.5em;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-weight: 900;
+  color: #FA023C;
+  font-style: italic;
+  font-size: 3em;
+  text-align: center;
+}
+
+a {
+  color: #FA023C;
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom: 2px dotted #FA023C;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.container {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.column {
+  display: inline-block;
+  width: 45%;
+  vertical-align: top;
+  float: left;
+}
+
