@@ -29,7 +29,7 @@ a:hover {
   border-bottom: 2px dotted #FA023C;
 }
 
-p {
+p, ul {
   line-height: 1.5;
 }
 
